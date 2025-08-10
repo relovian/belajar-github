@@ -1,1 +1,4 @@
 adapun step by step belajar github itu ada : 
+-membuat repo baru terlebih dahulu 
+-membuat file didalamnya kalau tidak kamu bisa upload saja file codingannya di situ
+-mengedit dan menghapus beberapa jika tidak diperlukan didalam source code ini biasa disebut sebuah commit yang akan menyimpan proses mulai dari mengedit atau menghapus
