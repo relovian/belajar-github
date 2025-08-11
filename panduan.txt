@@ -1,0 +1,11 @@
+HTML
+-belajar sintaks html atau tag html apa saja yang ada
+-mempelajari penggunaan html yang benar 
+
+CSS 
+-menghubungkan css eksternal ke dalam html menggunakan sebuah link:CSS
+-mempelajari berbagai style yang ada di css mulai dari color, background color, width, height, atau position
+
+JS 
+-menghubungkan js ke dalam html utamanya 
+-mempelajari js terbaru yaitu ES6
